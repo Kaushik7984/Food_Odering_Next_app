@@ -1,5 +1,5 @@
 import React from 'react'
-import classes from './mainHeaderBackground.module.css'
+import classes from './main-header-background.module.css'
 
 function MainHeaderBackground() {
   return (
