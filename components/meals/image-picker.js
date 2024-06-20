@@ -15,7 +15,7 @@ export default function ImagePicker({ lable, name }) {
     const file = event.target.files[0];
 
     if (!file) {
-      setPickedImage(null)
+      setPickedImage(null);
       return;
     }
     const fileReader = new FileReader();
