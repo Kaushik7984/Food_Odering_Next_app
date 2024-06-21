@@ -15,7 +15,7 @@ function MainHeader() {
       <header className={classes.header}>
         <Link className={classes.logo} href="/">
           <Image src={logoImg} alt="plate with food" />
-          FOodIes
+          FOODIES
         </Link>
         <nav className={classes.nav}>
           <ul>
